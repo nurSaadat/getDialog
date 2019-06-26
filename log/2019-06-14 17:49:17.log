@@ -1,0 +1,20 @@
+
+2019-06-14 17:49:17,183
+Source: data/Abay_Zholy_1_Kitap.txt
+Destination: dst/Abay_Zholy_1_Kitap.txt
+Dialogs: 5
+
+2019-06-14 17:49:17,191
+Source: data/Abay_Zholy_2_Kitap.txt
+Destination: dst/Abay_Zholy_2_Kitap.txt
+Dialogs: 1
+
+2019-06-14 17:49:17,196
+Source: data/Abay_Zholy_3_Kitap.txt
+Destination: dst/Abay_Zholy_3_Kitap.txt
+Dialogs: 35
+
+2019-06-14 17:49:17,202
+Source: data/Abay_Zholy_4_Kitap.txt
+Destination: dst/Abay_Zholy_4_Kitap.txt
+Dialogs: 0

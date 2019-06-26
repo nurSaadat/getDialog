@@ -1,0 +1,414 @@
+
+2019-06-14 18:38:37,610
+dash.txt:
+{45: '-', 8211: '–', 10: '\n'}
+
+2019-06-14 18:38:37,615
+Source: data/Abay_Zholy_1_Kitap.txt
+Destination: dst/Abay_Zholy_1_Kitap.txt
+Dialogs: 1285
+
+2019-06-14 18:38:37,621
+Source: data/Abay_Zholy_2_Kitap.txt
+Destination: dst/Abay_Zholy_2_Kitap.txt
+Dialogs: 1270
+
+2019-06-14 18:38:37,627
+Source: data/Abay_Zholy_3_Kitap.txt
+Destination: dst/Abay_Zholy_3_Kitap.txt
+Dialogs: 35
+
+2019-06-14 18:38:37,632
+Source: data/Abay_Zholy_4_Kitap.txt
+Destination: dst/Abay_Zholy_4_Kitap.txt
+Dialogs: 728
+
+2019-06-14 18:38:37,638
+Source: data/Don1.txt
+Destination: dst/Don1.txt
+Dialogs: 0
+
+2019-06-14 18:38:37,644
+Source: data/Don2.txt
+Destination: dst/Don2.txt
+Dialogs: 0
+
+2019-06-14 18:38:37,651
+Source: data/KAZ_Don1.txt
+Destination: dst/KAZ_Don1.txt
+Dialogs: 0
+
+2019-06-14 18:38:37,659
+Source: data/KAZ_Don2.txt
+Destination: dst/KAZ_Don2.txt
+Dialogs: 0
+
+2019-06-14 18:38:37,662
+Source: data/KAZ_Morskoy_Volk.txt
+Destination: dst/KAZ_Morskoy_Volk.txt
+Dialogs: 1152
+
+2019-06-14 18:38:37,666
+Source: data/KAZ_Papa.txt
+Destination: dst/KAZ_Papa.txt
+Dialogs: 358
+
+2019-06-14 18:38:37,667
+Source: data/KAZ_Prince.txt
+Destination: dst/KAZ_Prince.txt
+Dialogs: 452
+
+2019-06-14 18:38:37,671
+Source: data/Morskoy_Volk.txt
+Destination: dst/Morskoy_Volk.txt
+Dialogs: 1155
+
+2019-06-14 18:38:37,672
+Source: data/Papa.txt
+Destination: dst/Papa.txt
+Dialogs: 78
+
+2019-06-14 18:38:37,673
+Source: data/Prince.txt
+Destination: dst/Prince.txt
+Dialogs: 0
+
+2019-06-14 18:38:37,677
+Source: data/alem_tarix_oi_1.txt
+Destination: dst/alem_tarix_oi_1.txt
+Dialogs: 3
+
+2019-06-14 18:38:37,682
+Source: data/alem_tarix_oi_3.txt
+Destination: dst/alem_tarix_oi_3.txt
+Dialogs: 0
+
+2019-06-14 18:38:37,688
+Source: data/alem_tarix_oi_4.txt
+Destination: dst/alem_tarix_oi_4.txt
+Dialogs: 6
+
+2019-06-14 18:38:37,693
+Source: data/alemdik_madeniettanu_oj_sanasy_i.txt
+Destination: dst/alemdik_madeniettanu_oj_sanasy_i.txt
+Dialogs: 2
+
+2019-06-14 18:38:37,697
+Source: data/alemdik_madeniettanu_oj_sanasy_ii.txt
+Destination: dst/alemdik_madeniettanu_oj_sanasy_ii.txt
+Dialogs: 0
+
+2019-06-14 18:38:37,702
+Source: data/alemdik_madeniettanu_oj_sanasy_iii.txt
+Destination: dst/alemdik_madeniettanu_oj_sanasy_iii.txt
+Dialogs: 1
+
+2019-06-14 18:38:37,706
+Source: data/alemdik_madeniettanu_oj_sanasy_iv.txt
+Destination: dst/alemdik_madeniettanu_oj_sanasy_iv.txt
+Dialogs: 1
+
+2019-06-14 18:38:37,710
+Source: data/alemdik_madeniettanu_oj_sanasy_ix.txt
+Destination: dst/alemdik_madeniettanu_oj_sanasy_ix.txt
+Dialogs: 0
+
+2019-06-14 18:38:37,715
+Source: data/alemdik_madeniettanu_oj_sanasy_v.txt
+Destination: dst/alemdik_madeniettanu_oj_sanasy_v.txt
+Dialogs: 84
+
+2019-06-14 18:38:37,719
+Source: data/alemdik_madeniettanu_oj_sanasy_vi.txt
+Destination: dst/alemdik_madeniettanu_oj_sanasy_vi.txt
+Dialogs: 1
+
+2019-06-14 18:38:37,723
+Source: data/alemdik_madeniettanu_oj_sanasy_vii.txt
+Destination: dst/alemdik_madeniettanu_oj_sanasy_vii.txt
+Dialogs: 0
+
+2019-06-14 18:38:37,727
+Source: data/alemdik_madeniettanu_oj_sanasy_viii.txt
+Destination: dst/alemdik_madeniettanu_oj_sanasy_viii.txt
+Dialogs: 0
+
+2019-06-14 18:38:37,731
+Source: data/alemdik_madeniettanu_oj_sanasy_x.txt
+Destination: dst/alemdik_madeniettanu_oj_sanasy_x.txt
+Dialogs: 0
+
+2019-06-14 18:38:37,736
+Source: data/alemdik_tarixi_oi_2.txt
+Destination: dst/alemdik_tarixi_oi_2.txt
+Dialogs: 1
+
+2019-06-14 18:38:37,739
+Source: data/altyn_orda_i_kitap.txt
+Destination: dst/altyn_orda_i_kitap.txt
+Dialogs: 3
+
+2019-06-14 18:38:37,742
+Source: data/altyn_orda_ii_kitap.txt
+Destination: dst/altyn_orda_ii_kitap.txt
+Dialogs: 0
+
+2019-06-14 18:38:37,745
+Source: data/altyn_orda_iii_kitap.txt
+Destination: dst/altyn_orda_iii_kitap.txt
+Dialogs: 0
+
+2019-06-14 18:38:37,747
+Source: data/altyn_qus_esenberlin.txt
+Destination: dst/altyn_qus_esenberlin.txt
+Dialogs: 0
+
+2019-06-14 18:38:37,747
+Source: data/alyp_su_zhylany.txt
+Destination: dst/alyp_su_zhylany.txt
+Dialogs: 40
+
+2019-06-14 18:38:37,747
+Source: data/alyptyng_keremetteri.txt
+Destination: dst/alyptyng_keremetteri.txt
+Dialogs: 13
+
+2019-06-14 18:38:37,749
+Source: data/alystahy_arpalys.txt
+Destination: dst/alystahy_arpalys.txt
+Dialogs: 0
+
+2019-06-14 18:38:37,753
+Source: data/antikalyq_rim_jane_tarxi_oi.txt
+Destination: dst/antikalyq_rim_jane_tarxi_oi.txt
+Dialogs: 0
+
+2019-06-14 18:38:37,758
+Source: data/aqqan_zhuldyz_1.txt
+Destination: dst/aqqan_zhuldyz_1.txt
+Dialogs: 1911
+
+2019-06-14 18:38:37,765
+Source: data/aqqan_zhuldyz_2.txt
+Destination: dst/aqqan_zhuldyz_2.txt
+Dialogs: 2408
+
+2019-06-14 18:38:37,766
+Source: data/baluan_sholaq_angyz.txt
+Destination: dst/baluan_sholaq_angyz.txt
+Dialogs: 0
+
+2019-06-14 18:38:37,768
+Source: data/baluan_sholaq_povest.txt
+Destination: dst/baluan_sholaq_povest.txt
+Dialogs: 0
+
+2019-06-14 18:38:37,769
+Source: data/batyr_qyz.txt
+Destination: dst/batyr_qyz.txt
+Dialogs: 90
+
+2019-06-14 18:38:37,770
+Source: data/bota_adamgerwi.txt
+Destination: dst/bota_adamgerwi.txt
+Dialogs: 313
+
+2019-06-14 18:38:37,773
+Source: data/bota_armainanak.txt
+Destination: dst/bota_armainanak.txt
+Dialogs: 876
+
+2019-06-14 18:38:37,777
+Source: data/bota_armaniubfnd.txt
+Destination: dst/bota_armaniubfnd.txt
+Dialogs: 954
+
+2019-06-14 18:38:37,779
+Source: data/bota_jalgan3.txt
+Destination: dst/bota_jalgan3.txt
+Dialogs: 2
+
+2019-06-14 18:38:37,780
+Source: data/bota_jeznd.txt
+Destination: dst/bota_jeznd.txt
+Dialogs: 471
+
+2019-06-14 18:38:37,786
+Source: data/elim_aj_i_ikitap.txt
+Destination: dst/elim_aj_i_ikitap.txt
+Dialogs: 2341
+
+2019-06-14 18:38:37,791
+Source: data/elim_aj_i_kitap.txt
+Destination: dst/elim_aj_i_kitap.txt
+Dialogs: 8
+
+2019-06-14 18:38:37,798
+Source: data/elim_aj_iii_kitap.txt
+Destination: dst/elim_aj_iii_kitap.txt
+Dialogs: 2084
+
+2019-06-14 18:38:37,804
+Source: data/guma_akan_seri.txt
+Destination: dst/guma_akan_seri.txt
+Dialogs: 151
+
+2019-06-14 18:38:37,809
+Source: data/guma_akan_seri_2.txt
+Destination: dst/guma_akan_seri_2.txt
+Dialogs: 1910
+
+2019-06-14 18:38:37,814
+Source: data/jana_zaman_tarixi_oi.txt
+Destination: dst/jana_zaman_tarixi_oi.txt
+Dialogs: 0
+
+2019-06-14 18:38:37,820
+Source: data/moldir_maxabbat.txt
+Destination: dst/moldir_maxabbat.txt
+Dialogs: 288
+
+2019-06-14 18:38:37,821
+Source: data/muxtar_mahauin_tazynyng_olimi.txt
+Destination: dst/muxtar_mahauin_tazynyng_olimi.txt
+Dialogs: 52
+
+2019-06-14 18:38:37,822
+Source: data/new_file.txt
+Destination: dst/new_file.txt
+Dialogs: 1280
+
+2019-06-14 18:38:37,828
+Source: data/ortagasyrlyq_tarxi_oi.txt
+Destination: dst/ortagasyrlyq_tarxi_oi.txt
+Dialogs: 1
+
+2019-06-14 18:38:37,832
+Source: data/qazaq_xalqynyng_filosofiyalyq_murasy_i_kitap.txt
+Destination: dst/qazaq_xalqynyng_filosofiyalyq_murasy_i_kitap.txt
+Dialogs: 1
+
+2019-06-14 18:38:37,838
+Source: data/qazaq_xalqynyng_filosofiyalyq_murasy_ii_kitap.txt
+Destination: dst/qazaq_xalqynyng_filosofiyalyq_murasy_ii_kitap.txt
+Dialogs: 211
+
+2019-06-14 18:38:37,843
+Source: data/qazaq_xalqynyng_filosofiyalyq_murasy_iii_kitap.txt
+Destination: dst/qazaq_xalqynyng_filosofiyalyq_murasy_iii_kitap.txt
+Dialogs: 0
+
+2019-06-14 18:38:37,849
+Source: data/qazaq_xalqynyng_filosofiyalyq_murasy_iv_kitap.txt
+Destination: dst/qazaq_xalqynyng_filosofiyalyq_murasy_iv_kitap.txt
+Dialogs: 39
+
+2019-06-14 18:38:37,853
+Source: data/qazaq_xalqynyng_filosofiyalyq_murasy_ix_kitap.txt
+Destination: dst/qazaq_xalqynyng_filosofiyalyq_murasy_ix_kitap.txt
+Dialogs: 19
+
+2019-06-14 18:38:37,859
+Source: data/qazaq_xalqynyng_filosofiyalyq_murasy_v_kitap.txt
+Destination: dst/qazaq_xalqynyng_filosofiyalyq_murasy_v_kitap.txt
+Dialogs: 12
+
+2019-06-14 18:38:37,864
+Source: data/qazaq_xalqynyng_filosofiyalyq_murasy_vi_kitap.txt
+Destination: dst/qazaq_xalqynyng_filosofiyalyq_murasy_vi_kitap.txt
+Dialogs: 938
+
+2019-06-14 18:38:37,868
+Source: data/qazaq_xalqynyng_filosofiyalyq_murasy_vii_kitap.txt
+Destination: dst/qazaq_xalqynyng_filosofiyalyq_murasy_vii_kitap.txt
+Dialogs: 5
+
+2019-06-14 18:38:37,873
+Source: data/qazaq_xalqynyng_filosofiyalyq_murasy_viii_kitap.txt
+Destination: dst/qazaq_xalqynyng_filosofiyalyq_murasy_viii_kitap.txt
+Dialogs: 41
+
+2019-06-14 18:38:37,878
+Source: data/qazaq_xalqynyng_filosofiyalyq_murasy_x_kitap.txt
+Destination: dst/qazaq_xalqynyng_filosofiyalyq_murasy_x_kitap.txt
+Dialogs: 49
+
+2019-06-14 18:38:37,882
+Source: data/qazaq_xalqynyng_filosofiyalyq_murasy_xi_kitap.txt
+Destination: dst/qazaq_xalqynyng_filosofiyalyq_murasy_xi_kitap.txt
+Dialogs: 41
+
+2019-06-14 18:38:37,887
+Source: data/qazaq_xalqynyng_filosofiyalyq_murasy_xii_kitap.txt
+Destination: dst/qazaq_xalqynyng_filosofiyalyq_murasy_xii_kitap.txt
+Dialogs: 0
+
+2019-06-14 18:38:37,893
+Source: data/qazaq_xalqynyng_filosofiyalyq_murasy_xiii_kitap.txt
+Destination: dst/qazaq_xalqynyng_filosofiyalyq_murasy_xiii_kitap.txt
+Dialogs: 0
+
+2019-06-14 18:38:37,898
+Source: data/qazaq_xalqynyng_filosofiyalyq_murasy_xiv_kitap.txt
+Destination: dst/qazaq_xalqynyng_filosofiyalyq_murasy_xiv_kitap.txt
+Dialogs: 85
+
+2019-06-14 18:38:37,902
+Source: data/qazaq_xalqynyng_filosofiyalyq_murasy_xv_kitap.txt
+Destination: dst/qazaq_xalqynyng_filosofiyalyq_murasy_xv_kitap.txt
+Dialogs: 1
+
+2019-06-14 18:38:37,907
+Source: data/qazaq_xalqynyng_filosofiyalyq_murasy_xvi_kitap.txt
+Destination: dst/qazaq_xalqynyng_filosofiyalyq_murasy_xvi_kitap.txt
+Dialogs: 16
+
+2019-06-14 18:38:37,910
+Source: data/qazaq_xalqynyng_filosofiyalyq_murasy_xvii_kitap.txt
+Destination: dst/qazaq_xalqynyng_filosofiyalyq_murasy_xvii_kitap.txt
+Dialogs: 16
+
+2019-06-14 18:38:37,916
+Source: data/qazaq_xalqynyng_filosofiyalyq_murasy_xviii_kitap.txt
+Destination: dst/qazaq_xalqynyng_filosofiyalyq_murasy_xviii_kitap.txt
+Dialogs: 49
+
+2019-06-14 18:38:37,917
+Source: data/raxmet_otesinov_alyptyng_arnasy.txt
+Destination: dst/raxmet_otesinov_alyptyng_arnasy.txt
+Dialogs: 1
+
+2019-06-14 18:38:37,922
+Source: data/resei_tarihi_oiy.txt
+Destination: dst/resei_tarihi_oiy.txt
+Dialogs: 2
+
+2019-06-14 18:38:37,925
+Source: data/syqaq_anggimeler_i_kitap.txt
+Destination: dst/syqaq_anggimeler_i_kitap.txt
+Dialogs: 0
+
+2019-06-14 18:38:37,926
+Source: data/syqaq_zhane_azil_ospaq_anggimeler_ii_kitap.txt
+Destination: dst/syqaq_zhane_azil_ospaq_anggimeler_ii_kitap.txt
+Dialogs: 0
+
+2019-06-14 18:38:37,930
+Source: data/turik_halyktarynyn_tarixi_oiy.txt
+Destination: dst/turik_halyktarynyn_tarixi_oiy.txt
+Dialogs: 28
+
+2019-06-14 18:38:37,937
+Source: data/uaqyt_zaman_ahyny_iii_tom.txt
+Destination: dst/uaqyt_zaman_ahyny_iii_tom.txt
+Dialogs: 435
+
+2019-06-14 18:38:37,942
+Source: data/xamza_esenzhanov_agaiyndy_junisovtar_1_bolim.txt
+Destination: dst/xamza_esenzhanov_agaiyndy_junisovtar_1_bolim.txt
+Dialogs: 0
+
+2019-06-14 18:38:37,944
+Source: data/xamza_esenzhanov_agaiyndy_junisovtar_2_bolim.txt
+Destination: dst/xamza_esenzhanov_agaiyndy_junisovtar_2_bolim.txt
+Dialogs: 15
